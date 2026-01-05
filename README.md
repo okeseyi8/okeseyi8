@@ -1,77 +1,39 @@
-# 👋 Hey, I’m Oluwaseyi Oke
+# Hey, I’m Oluwaseyi Oke
 
-Frontend Engineer who enjoys turning product ideas into **clean, scalable, and reliable web interfaces**.  
-I care about code structure, performance, and building things that actually ship.
+Frontend Engineer building **clean, scalable, and reliable web interfaces** with React and Next.js.  
+I focus on code structure, performance, and shipping production-ready applications.
 
----
+## Tech Stack
 
-## 🧠 What I Spend My Time On
-- Building responsive, accessible UIs with React and Next.js
-- Designing reusable components and sane folder structures
-- Managing server and client state without overengineering
-- Integrating APIs cleanly and predictably
-- Constantly improving how I write and organize frontend code
+**Frontend**  
+HTML · CSS · JS · React · Next.js · TypeScript · Tailwind CSS · shadcn/ui  
 
----
+![HTML](https://skillicons.dev/icons?i=html) 
+![CSS](https://skillicons.dev/icons?i=css)
+![JS](https://skillicons.dev/icons?i=js)
+![React](https://skillicons.dev/icons?i=react) 
+![Next](https://skillicons.dev/icons?i=nextjs)
+![TS](https://skillicons.dev/icons?i=ts)
+![Tailwind](https://skillicons.dev/icons?i=tailwind)
 
-## 🛠️ Tech I Work With
+**Data & State**  
+React Query (TanStack Query) · Zustand · Context API  
 
-**Frontend**
-- React, TypeScript
-- Next.js
-- Vite
-- Tailwind CSS
-- shadcn/ui
+**Backend & Tools**  
+Node.js · Express · MongoDB · Git · REST APIs  
 
-**Data & State**
-- React Query (TanStack Query)
-- Zustand
-- Context API
-
-**Architecture & Practices**
-- Component-driven design
-- Services & API abstraction
-- Scalable frontend project structure
-
-**Backend (Working Knowledge)**
-- Node.js
-- Express
-- MongoDB
-
-**Tools**
-- Git, GitHub
-- REST APIs
-
----
-
-## 🚀 Things I’ve Built
-
-### Green Lunar LMS
-A Learning Management System built with React and TypeScript, focusing on reusable components, role-based UI, and maintainable state management.
-
-### Mini E-commerce App
-Responsive e-commerce app with product filtering, clean grid layouts, and modern UX patterns.
-
-### Student Attendance System
-Frontend system for managing attendance states (Present, Absent, Late) with API integration and clean UI interactions.
-
-### Portfolio Website
-Personal portfolio built with React and Tailwind CSS to showcase projects and engineering approach.
-
----
-
-## 🌱 Currently Improving
-- Advanced frontend architecture patterns
-- Full-stack MERN development
-- Performance optimization and real-world scalability
-
----
-
-## 📫 Reach Me
-- **Email:** okeseyi8@gmail.com
-
-![GitHub Streak](https://streak-stats.demolab.com?user=okeseyi8)
+**Architecture & Practices**  
+Component-driven design · API abstraction · Scalable folder structure
 
 
 
+## Contact
 
+- **Email:** okeseyi8@gmail.com  
+
+
+
+## GitHub Activity 📊
+
+![GitHub Streak](https://streak-stats.demolab.com?user=okeseyi8&theme=transparent)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=okeseyi8&show_icons=true&theme=radical)
