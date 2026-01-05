@@ -70,6 +70,8 @@ Personal portfolio built with React and Tailwind CSS to showcase projects and en
 ## 📫 Reach Me
 - **Email:** okeseyi8@gmail.com
 
+![GitHub Streak](https://streak-stats.demolab.com?user=okeseyi8)
+
 
 
 
