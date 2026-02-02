@@ -8,13 +8,6 @@ I focus on code structure, performance, and shipping production-ready applicatio
 **Frontend**  
 HTML · CSS · JS · React · Next.js · TypeScript · Tailwind CSS · shadcn/ui  
 
-![HTML](https://skillicons.dev/icons?i=html) 
-![CSS](https://skillicons.dev/icons?i=css)
-![JS](https://skillicons.dev/icons?i=js)
-![React](https://skillicons.dev/icons?i=react) 
-![Next](https://skillicons.dev/icons?i=nextjs)
-![TS](https://skillicons.dev/icons?i=ts)
-![Tailwind](https://skillicons.dev/icons?i=tailwind)
 
 **Data & State**  
 React Query (TanStack Query) · Zustand · Context API  
