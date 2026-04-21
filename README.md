@@ -29,4 +29,4 @@ Component-driven design · API abstraction · Scalable folder structure
 ## GitHub Activity 📊
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=okeseyi8&theme=transparent)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=okeseyi8&show_icons=true&theme=radical)
+
